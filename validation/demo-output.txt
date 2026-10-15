@@ -1,0 +1,3 @@
+Loan granted. Loan ID: 1
+Overdue fine: 7.50
+Fine payment status: PAID
